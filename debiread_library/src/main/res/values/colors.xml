@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="ColorTransparentWhite">#CCCCCC</color>
+
+    <color name="lightgrey">#d3d3d3 </color>
+    <color name="colorRed">#D50000</color>
+
+    <!--new colors for the homepage-->
+    <color name="homeColorPrimary">#FFC107</color>
+    <color name="homeprimarycolordark">#FFA000</color>
+    <color name="homebackgroundcolor">#fcfcfc</color>
+    <color name="lightgreyline">#ededed</color>
+    <color name="deepurple">#7c4dff</color>
+    <color name="materialyellow">#ffb300</color>
+    <color name="materialgreen">#00bfa5</color>
+    <color name="pinkaccent">#ff4081</color>
+    <color name="darkgreycolor">#5c5d5b</color>
+    <color name="shinygreen">#76FF03</color>
+
+    <!--new colors for account-->
+    <color name="lightgreycolor">#fafafa</color>
+    <color name="starblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+    <color name="arnoldwhite">#f5f5f5</color>
+
+    <color name="colorbalck">#000000</color>
+    <color name="transparent_grey">#FAFAFA</color>
+
+
+    <!--gradient colors 1-->
+    <color name="magna_slider_gradient_one">#01B2EC</color>
+    <color name="magna_slider_gradient_two">#01A5DB</color>
+    <color name="magna_slider_gradient_three">#01769C</color>
+    <color name="magna_slider_color_light_blue">#E1EDEF</color>
+
+    <!--accountnumber list color-->
+    <color name="lightgreen_accountnumber">#19F501</color>
+    <color name="purple_accountnumber">#D500F9</color>
+    <color name="blue_accountnumber">#01B9F5</color>
+    <color name="oceanbllue_accountnumber">#00E5FF</color>
+    <color name="brown_accountnumber">#9E6169</color>
+<color name="normal_textcolor">#707070</color>
+
+
+</resources>

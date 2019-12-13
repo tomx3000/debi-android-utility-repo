@@ -1,0 +1,2 @@
+include ':app', ':debiread_library'
+rootProject.name='DebiRead'

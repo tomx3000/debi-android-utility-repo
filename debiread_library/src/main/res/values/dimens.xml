@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="magna_slider_font_size">12sp</dimen>
+    <dimen name="magna_share_amount_font">28sp</dimen>
+    <dimen name="magna_share_amount_font_extra">40sp</dimen>
+    <dimen name="magna_share_phone_font">24sp</dimen>
+    <dimen name="magna_share_under_amount_font">18sp</dimen>
+    <dimen name="magna_share_info_font">13sp</dimen>
+    <dimen name="magna_shre_normal_display_font">13sp</dimen>
+    
+</resources>
